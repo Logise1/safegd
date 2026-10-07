@@ -18,3 +18,16 @@ Instead of exposing players to harmful or offensive content, SafeGD catches flag
 
 * **`SafeGD`**: The application that handles real-time level censorship and user-controlled reveal toggles.
 * **`blacklist.txt`**: A curated database of confirmed inappropriate and malicious level IDs used by the app to identify content that needs to be censored.
+
+---
+
+## Issues & Feedback
+Found a bug, have a suggestion, or spotted an inappropriate level that slipped through?
+
+Please open an [issue](https://github.com/Logise1/safegd/issues) with:
+
+Level ID (if reporting missing or falsely flagged levels).
+
+Details / Logs (if reporting bugs, crashes, or glitches).
+
+(Do not attach explicit screenshots to issues; providing the Level ID is enough).
